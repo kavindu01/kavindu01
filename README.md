@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kavindu01
-- 👀 I’m interested in coding 4 learning 
-- 🌱 I’m currently learning networking and ethical hacking 
-- 💞️ I’m looking to collaborate on open source projects 
-- 📫 Reach me through im01perera@gmail.com 
+
  
 <!---
 kavindu01/kavindu01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
